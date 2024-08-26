@@ -6,4 +6,5 @@ This is a simple yet effective To-Do List Application. It allows you to manage y
 3. Mark tasks as completed by clicking on the checkbox.
 4. Delete tasks by clicking on the trash icon.
 
-#Live Demo [https://klpnahepztodolistapplication.netlify.app/](url): 
+# Live Demo
+(https://klpnahepztodolistapplication.netlify.app/): 
